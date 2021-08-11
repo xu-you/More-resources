@@ -1,8 +1,8 @@
 ### 一、视频类
 
-\1. 预告片世界：https://www.yugaopian.cn/
+1.预告片世界：https://www.yugaopian.cn/
 
-\2. 33台词：http://33.agilestudio.cn/
+2.33台词：http://33.agilestudio.cn/
 
 3.MixKit：https://mixkit.co/free-stock-video/ 
 
